@@ -6,7 +6,7 @@ import UserMenu from "./userMenu";
 
 const Navbar = () => {
     return ( 
-        <div className="z-10 fixed w-full bg-white shadow-sm">
+        <div className="z-10 fixed w-full bg-gray-100 shadow-sm">
             <div className="border-b-[2px] py-4">
             <Container>
                 <div className=" gap-3 mdgap-0 flex flex-row items-center justify-between">
